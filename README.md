@@ -11,11 +11,9 @@
     
     <!-- RIGHT COLUMN: Typing Effect & Info -->
     <td align="left" valign="top" width="70%">
-      <!-- FIXED: Typing Effect Widget using pure HTML so it renders properly inside the table -->
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=24&lines=%3E+Hey+There!%2C+I+am+Palak;%3E+Welcome+to+my+digital+space.;%3E+Building+and+learning...&width=500&height=80" alt="Typing SVG" />
       </a>
-      
       <p>Engineering student passionate about solving complex problems, writing clean code, and exploring emerging tech architectures.</p>
     </td>
   </tr>
@@ -57,7 +55,6 @@
 
 ### `>_ SYSTEM_METRICS`
 
-<!-- Row of GitHub Stats Cards in Matrix Theme -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palakkmishra2006-byte&show_icons=true&theme=matrix&rank_icon=github&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkmishra2006-byte&layout=compact&theme=matrix&hide_border=true" width="45%" alt="Top Languages" />
@@ -65,7 +62,6 @@
 
 ### `>_ REPOSITORY_ACTIVITY_GRAPH`
 
-<!-- Equalizer/Visualizer style contribution activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=palakkmishra2006-byte&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
