@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💻 Tech Stack:
+<!-- Competition & Achievement Table -->
+| Competition / Event | Role / Achievement | Context |
+| :--- | :--- | :--- |
+| 🏆 IIT Mandi Hackathon | Winner | Technical Hackathon |
+| 🥈 Tech Expo | 1st Runner-Up | Project Exhibition |
+| 🚀 ET Gen Hackathon | Semi-Finalist | National Hackathon |
+| 💻 BBD University Hackathon | Organizing Team Member | Event Management |
 
 ## 💻 Tech Stack:
 
