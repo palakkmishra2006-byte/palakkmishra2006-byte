@@ -13,8 +13,53 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Hey+There!%2C+I+am+Palak;%3E+Welcome+to+my+profile.)](https://git.io/typing-svg)
-<!-- Competition & Achievement Table -->
+<div align="center">
+
+<table>
+  <tr>
+    <!-- LEFT COLUMN: Your Animated HUD Profile Frame -->
+    <td align="center" valign="middle" width="30%">
+      <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/your-hud-avatar.gif" width="220" alt="Palak's Animated Avatar" style="border-radius: 50%;" />
+      <br />
+      <sub><b>@palakkmishra2006-byte</b></sub>
+    </td>
+    
+    <!-- RIGHT COLUMN: Typing Effect & Core Info -->
+    <td align="left" valign="top" width="70%">
+      <!-- Typing Effect Widget -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=24&lines=%3E+Hey+There!%2C+I+am+Palak;%3E+Welcome+to+my+digital+space.;%3E+Building+and+learning...&width=500&height=80" alt="Typing SVG" />
+      </a>
+      
+      <p>Engineering student passionate about solving complex problems, writing clean code, and exploring emerging tech architectures.</p>
+      
+      <!-- Tech Stack Badges -->
+      Alternative Key: <code>&gt;_ CORE_STACK</code> <br />
+      <img src="https://img.shields.io/badge/C-00FF00?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=00FF00" alt="Python" />
+      <img src="https://img.shields.io/badge/Git-00FF00?style=flat-square&logo=git&logoColor=black" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### `>_ SYSTEM_METRICS`
+
+<!-- Row of GitHub Stats Cards in Matrix Theme -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palakkmishra2006-byte&show_icons=true&theme=matrix&rank_icon=github&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkmishra2006-byte&layout=compact&theme=matrix&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+### `>_ REPOSITORY_ACTIVITY_GRAPH`
+
+<!-- Equalizer/Visualizer style contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palakkmishra2006-byte&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+</p>
+
+</div>
 | Competition / Event | Role / Achievement | Context |
 | :--- | :--- | :--- |
 | 🏆 IIT Mandi Hackathon | Winner | Technical Hackathon |
