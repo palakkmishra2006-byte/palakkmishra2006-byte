@@ -1,25 +1,3 @@
-<div align="center">
-
-<table>
-  <tr>
-    <!-- LEFT COLUMN: Your Animated HUD Profile Frame -->
-    <td align="center" valign="middle" width="30%">
-      <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/your-hud-avatar.gif" width="220" alt="Palak's Animated Avatar" style="border-radius: 50%;" />
-      <br />
-      <sub><b>@palakkmishra2006-byte</b></sub>
-    </td>
-    
-    <!-- RIGHT COLUMN: Typing Effect & Info -->
-    <td align="left" valign="top" width="70%">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=24&lines=%3E+Hey+There!%2C+I+am+Palak;%3E+Welcome+to+my+digital+space.;%3E+Building+and+learning...&width=500&height=80" alt="Typing SVG" />
-      </a>
-      <p>Engineering student passionate about solving complex problems, writing clean code, and exploring emerging tech architectures.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
