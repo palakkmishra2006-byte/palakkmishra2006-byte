@@ -31,12 +31,6 @@
 
 ---
 
-### `>_ SYSTEM_METRICS`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palakkmishra2006-byte&show_icons=true&theme=matrix&rank_icon=github&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkmishra2006-byte&layout=compact&theme=matrix&hide_border=true" width="45%" alt="Top Languages" />
-</p>
 
 ### `>_ REPOSITORY_ACTIVITY_GRAPH`
 
