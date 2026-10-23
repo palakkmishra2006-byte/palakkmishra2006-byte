@@ -9,7 +9,7 @@
 | 🥈 Tech Expo | 1st Runner-Up | Project Exhibition |
 | 🚀 ET Gen Hackathon | Semi-Finalist | National Hackathon |
 | 💻 BBD University Hackathon | Organizing Team Member | Event Management |
-| TECHNICAL HEAD BBD | INNOSPHERE STUDENT FORUM BBD|
+| TECHNICAL HEAD BBD | INNOSPHERE STUDENT FORUM BBD| LEADERSHIP
 
 
 ---
