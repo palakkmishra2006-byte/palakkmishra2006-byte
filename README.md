@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/" alt="Palak Mishra Particle Effect" style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; border: 3px solid #00FF66; box-shadow: 0 0 25px #00FF66; margin-top: 15px; margin-bottom: 15px;" />
+  <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/Gemini_Generated_Image_26kuyc26kuyc26ku.png" alt="Palak Mishra Particle Effect" style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; border: 3px solid #00FF66; box-shadow: 0 0 25px #00FF66; margin-top: 15px; margin-bottom: 15px;" />
 </div>
-
 
 ### `>_ COMPETITIONS & ACHIEVEMENTS`
 
