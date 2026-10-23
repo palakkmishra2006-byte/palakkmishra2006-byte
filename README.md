@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/palakkmishra2006-byte">
-    <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/IMG-20260301-WA0026.jpg" alt="Palak Mishra" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 4px solid #7B2CBF; box-shadow: 0 0 20px #9D4EDD; margin-top: 15px; margin-bottom: 15px;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/" alt="Palak Mishra Particle Effect" style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; border: 3px solid #00FF66; box-shadow: 0 0 25px #00FF66; margin-top: 15px; margin-bottom: 15px;" />
 </div>
 
 
