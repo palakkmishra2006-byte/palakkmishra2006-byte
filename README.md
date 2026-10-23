@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://github.com/palakkmishra2006-byte">
+    <img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/main/IMG-20260301-WA0026.jpg" alt="Palak Mishra" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 4px solid #7B2CBF; box-shadow: 0 0 20px #9D4EDD; margin-top: 15px; margin-bottom: 15px;" />
+  </a>
+</div>
 
 
 ### `>_ COMPETITIONS & ACHIEVEMENTS`
@@ -9,7 +13,9 @@
 | 🥈 Tech Expo | 1st Runner-Up | Project Exhibition |
 | 🚀 ET Gen Hackathon | Semi-Finalist | National Hackathon |
 | 💻 BBD University Hackathon | Organizing Team Member | Event Management |
-| TECHNICAL HEAD BBD | INNOSPHERE STUDENT FORUM BBD| LEADERSHIP
+| TECHNICAL HEAD BBD | INNOSPHERE STUDENT FORUM BBD| LEADERSHIP|
+| 🎯 **National Semi-Finalist** | ETGen Hackathon 2026 | Reached top tier competitive evaluation in national engineering challenge. |
+| 🔥 **130+ Day Coding Streak** | CodeSignal,Leetcode & Unstop | Demonstrated relentless
 
 
 ---
@@ -160,6 +166,15 @@ A hardware-integrated drone detection and classification system prototype engine
 
 <details>
 <summary><b>02. Data-Shadow</b> — <i>Cybersecurity privacy engine utilizing differential privacy</i></summary>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/palakkmishra2006-byte/palakkmishra2006-byte/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+</div>
+
+---
 
 <br/>
 
