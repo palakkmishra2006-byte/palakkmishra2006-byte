@@ -66,17 +66,17 @@
   <a href="https://linkedin.com/in/palakkmishra2006-byte">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
     https://www.linkedin.com/in/palak-mishra-4ab54b379
-  </a>
+  </n>
 
   
   <a href="mailto:palakkmishra2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Button" />
-  </a>
+  </n>
 
   
   <a href="https://github.com/palakkmishra2006-byte">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Button" />
-  </a>
+  </n>
 
   <br/><br/>
 
