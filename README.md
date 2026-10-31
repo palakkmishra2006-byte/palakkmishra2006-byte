@@ -270,16 +270,6 @@ A modular voice-controlled Android smartphone automation system featuring custom
 
 ---
 
-## 📊 GitHub Analytics[cite: 3]
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palakkmishra2006-byte&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkmishra2006-byte&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-
 
 ---
 
