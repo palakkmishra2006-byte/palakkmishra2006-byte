@@ -65,6 +65,7 @@
   <!-- Social Buttons (Without Portfolio) -->
   <a href="https://linkedin.com/in/palakkmishra2006-byte">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+    https://www.linkedin.com/in/palak-mishra-4ab54b379
   </a>
   <a href="mailto:palakkmishra2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Button" />
@@ -76,10 +77,7 @@
   <br/><br/>
 
   <!-- 1i-k. Profile Views, Followers, Stars -->
-  <img src="https://komarev.com/ghpvc/?username=palakkmishra2006-byte&color=7b2cbf&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/palakkmishra2006-byte?style=flat-square&color=5a189a&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/palakkmishra2006-byte?style=flat-square&color=3c096c&label=TOTAL+STARS" alt="Stars" />
-
+ 
 </div>
 
 ---
@@ -163,7 +161,7 @@ A hardware-integrated drone detection and classification system prototype engine
 
 <details>
 <summary><b>02. Data-Shadow</b> — <i>Cybersecurity privacy engine utilizing differential privacy</i></summary>
-## 🐍 Contribution Snake
+
 
 <div align="center">
 
@@ -243,18 +241,7 @@ A modular voice-controlled Android smartphone automation system featuring custom
 
 </div>
 
----
 
-## 📜 Certifications[cite: 3]
-
-### **TCS iON**
-- ![Badge](https://img.shields.io/badge/Certification-TCS_iON_AI_For_All-7B2CBF?style=flat-square&logo=google) **TCS iON AI for All Learning Program**
-
-### **Infosys Springboard**
-- ![Badge](https://img.shields.io/badge/Certification-Pragati_Path_Cohort_9-5A189A?style=flat-square&logo=infosys) **Pragati Path to Future Cohort 9 Technical Program**
-
-### **Python & ML**
-- ![Badge](https://img.shields.io/badge/Certification-Python_Programming-3C096C?style=flat-square&logo=python) **Advanced Python Programming & Supervised Learning Mastery**
 
 ---
 
